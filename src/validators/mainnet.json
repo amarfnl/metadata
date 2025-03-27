@@ -21,8 +21,8 @@
     {
       "id": "0xa232a81b5e834b817db01d85ee13e36552b48413626287de511b6c89b7b8ff4a448e865713fd21c98f1467a58fe6efe5",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/stakeus.png",
-      "name": "StakeUs (lowest commission)",
-      "description": "Highest APR and Best Reward Pools, TRUST US STAKE US",
+      "name": "StakeUs",
+      "description": "TRUST US STAKE US",
       "website": "https://stakeus.xyz",
       "twitter": "https://www.twitter.com/StakeusXyz"
     },
@@ -334,6 +334,14 @@
       "id": "0xa1147c6c5938ba7f34423f9dd473bf7b1bb8836ed47ed3ff258146c94d6f10aed73cba3b4668adbe32ca0b53a99034f3",
       "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/c_thumb,w_200,g_face/v1739377904/src/validators/mainnet/lnyqzheabe7kseicovus.jpg",
       "name": "Frequency",
+      "description": "",
+      "website": "",
+      "twitter": ""
+    },
+    {
+      "id": "0x83199315cf36ebcf6a50bab572800d79324835fae832a3da9238f399c39feceb62de41339eab4cc8f79a6d4e6bcb825c",
+      "logoURI": "",
+      "name": "Falcon Nest",
       "description": "",
       "website": "",
       "twitter": ""
